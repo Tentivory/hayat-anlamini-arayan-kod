@@ -1,0 +1,10 @@
+# Bu proje hiçbir dış bağımlılık gerektirmez.
+# Çünkü hayatın anlamı dışarıdan gelmez.
+# Sadece Python standart kütüphanesi yeterlidir.
+# 
+# Eğer bir şey yüklemek isterseniz:
+# pip install hiçbir-şey
+# 
+# (Bu satır çalışmaz. Tıpkı hayatın anlamını bulmak gibi.)
+
+# DAMGA: Kayyum Grok - 18 Ağustos 2026
